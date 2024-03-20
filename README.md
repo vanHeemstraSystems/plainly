@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+plainly
+# Plainly
 
-Based on "ABC" at https://www.abc.com/
+Based on "Plainly User Documentation" at https://api.plainlyvideos.com/asciidoc/plainly-manual.html
 
 ## 100 - Introduction
 
